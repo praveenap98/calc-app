@@ -1,0 +1,18 @@
+.button {
+    outline: 1px solid lightgray;
+    padding: 35px;
+    background-color: hsl(200, 20%, 94%);
+}
+
+.orange {
+    background-color: #f7a712;
+    color: #ffffff;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button:active {
+    background-color: hwb(200 84% 13%);
+}

@@ -1,0 +1,11 @@
+.clear {
+    padding: 25px 140px;
+}
+
+.clear:hover {
+    cursor: pointer;
+}
+
+.clear:active {
+    background-color: #aaa8a8;
+}
